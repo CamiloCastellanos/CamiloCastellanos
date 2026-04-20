@@ -1,4 +1,4 @@
-![Camilo Castellanos Desarrollador](https://github.com/CamiloCastellanos/CamiloCastellanos/blob/master/image/front-page.png)
+![Camilo Castellanos Desarrollador](https://github.com/CamiloCastellanos/CamiloCastellanos/blob/master/image/front-page.webp)
 
 # 👋 Hi, I'm Camilo Castellanos      <img align="center" src="https://github.com/CamiloCastellanos/CamiloCastellanos/blob/master/image/dinoLike.gif" width="100" height="100"> 
 

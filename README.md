@@ -3,10 +3,10 @@
 # 👋 Hi, I'm Camilo Castellanos      <img align="center" src="https://github.com/CamiloCastellanos/CamiloCastellanos/blob/master/image/dinoLike.gif" width="100" height="100"> 
 
 <p align="center">
-  <a href="https://devcastellanos.com/">
+  <a href="https://devcastellanos.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-065f46?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/juan-camilo-castellanos-puentes/es/">
+  <a href="https://www.linkedin.com/in/juan-camilo-castellanos-puentes/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-065f46?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
